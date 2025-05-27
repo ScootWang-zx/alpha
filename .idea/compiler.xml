@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="alpha-product-service" />
+        <module name="alpha-common" />
+        <module name="alpha-community-service" />
+        <module name="alpha-user-service" />
+        <module name="alpha-gateway" />
+        <module name="alpha-order-service" />
+        <module name="alpha-vehicle-service" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
